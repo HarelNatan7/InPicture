@@ -1,0 +1,40 @@
+body {
+    background: rgb(163, 227, 224);
+}
+
+h1 {
+    text-align: center;
+    color: rgb(41, 138, 61);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.photo-container {
+    height: 250px;
+    display: flex;
+    justify-content: center;
+}
+
+.quest {
+    height: 40px;
+    width: 300px;
+    font-size: xx-large;
+    font-style: italic;
+    color: aliceblue;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(19, 13, 26);
+    text-align: center;
+    border-radius: 25px;
+}
+
+.opt {
+    font-size: x-large;
+    /* height: 35px; */
+    width: 200px;
+    margin: auto;
+    margin-top: 10px;
+    background-color: rgb(243, 12, 12);
+    text-align: center;
+    border-radius: 25px;
+    cursor: pointer;
+}
